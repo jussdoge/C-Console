@@ -19,6 +19,7 @@ class Program
         //Console.WriteLine(result2);
         //Loops.NestedLoops();
         //Loops.dowhile();
-        Character.players();
+        //Character.players();
+        Arrays.Array1(args);
     }
 }

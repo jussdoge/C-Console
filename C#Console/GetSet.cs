@@ -1,12 +1,12 @@
 
 class GetSet
 {
-    private string _model;
+    private string _model
 
-    public string _model
+    //public string _model
     {
         get { return _model; }
-        set { _model = }
+        set {}
     }
 
 }
@@ -34,9 +34,9 @@ class Short
     public string Cut { get; set; }
 }
 class BankAccount{
-    private decimal _balance;
+    private decimal _balance
 
-    public decimal _balance
+    //public decimal _balance
     {
         get{ return _balance; }
         set{
