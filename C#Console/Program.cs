@@ -20,6 +20,7 @@ class Program
         //Loops.NestedLoops();
         //Loops.dowhile();
         //Character.players();
-        Arrays.Array1(args);
+        //Arrays.Array1(args);
+        Lists.List1(args);
     }
 }
