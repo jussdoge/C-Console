@@ -21,6 +21,8 @@ class Program
         //Loops.dowhile();
         //Character.players();
         //Arrays.Array1(args);
-        Lists.List1(args);
+        //Lists.List1(args);
+        //Dictionary1.Dicti1(args);
+        Dictionary1.Dict2(args);
     }
 }
